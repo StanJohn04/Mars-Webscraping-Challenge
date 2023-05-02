@@ -47,5 +47,5 @@ Jupyter Notebook: [part_2_mars_weather](https://github.com/StanJohn04/Mars-Websc
 ![image](https://user-images.githubusercontent.com/121142680/235782449-81d09688-3b7f-4184-b423-4236e257a948.png)
 
   
- * Export DataFrame as CSV file.
+ * Export DataFrame as CSV file ([mars_temp_data.csv](https://github.com/StanJohn04/Mars-Webscraping-Challenge/blob/main/MarsData/Resources/mars_temp_data.csv)).
  
