@@ -12,7 +12,7 @@ Jupyter Notebook: [part_1_mars_news](https://github.com/StanJohn04/Mars-Webscrap
   * Using automated browsing, visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html).
   * Create beautiful Soup object and extract text elements
   * Extract the titles and preview text of the news articles. Store the scraping results in Python list
-  * Export scraped data as [JSON](https://github.com/StanJohn04/Mars-Webscraping-Challenge/blob/main/MarsData/Resources/mars_news.json)
+  * Export scraped data as JSON [(mars_news.json)](https://github.com/StanJohn04/Mars-Webscraping-Challenge/blob/main/MarsData/Resources/mars_news.json)
 
 # Part 2:
 Jupyter Notebook: [part_2_mars_weather](https://github.com/StanJohn04/Mars-Webscraping-Challenge/blob/main/MarsData/part_2_mars_weather.ipynb)
